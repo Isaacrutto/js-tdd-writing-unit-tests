@@ -224,3 +224,4 @@ and demonstrate how to write tests for more challenging functions.
 
 [to-be]: https://jestjs.io/docs/expect#tobevalue
 [to-throw]: https://jestjs.io/docs/expect#tothrowerror
+.
